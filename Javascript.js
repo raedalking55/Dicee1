@@ -1,3 +1,4 @@
+alert("Do you want to play a game who ones and lose with dice")
 var player1 = prompt("Enter player 1 name!")
 var player2 = prompt("Enter player 2 name!")
 document.querySelector(".player-1").innerHTML = player1
