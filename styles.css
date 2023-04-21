@@ -41,6 +41,10 @@ img {
   padding: 2rem;
   margin: 3rem auto;
 }
+input:active{
+  cursor: pointer;
+  background-color: purple;
+}
 
 footer {
   margin-top: 5%;
